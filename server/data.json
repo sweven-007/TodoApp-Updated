@@ -1,0 +1,34 @@
+{
+  "done": {
+    "name": "Done",
+    "tasks": []
+  },
+  "inProgress": {
+    "name": "In Progress",
+    "tasks": [
+      {
+        "id": "744bdad8-5a8c-49a3-90dc-c4338376a90e",
+        "title": "joe"
+      },
+      {
+        "id": "4ca35e79-ce04-4d33-9587-c2be8809778b",
+        "title": "at your own risk"
+      }
+    ]
+  },
+  "todo": {
+    "name": "To Do",
+    "tasks": [
+      {
+        "createdAt": "2025-05-17T17:23:50.963Z",
+        "id": "00946ef7-bc50-4031-979a-57a93783a769",
+        "title": "Disha AI"
+      },
+      {
+        "createdAt": "2025-05-17T14:20:09.118Z",
+        "id": "d96b0a52-c0d4-4f37-8d85-00a00e087f84",
+        "title": "new"
+      }
+    ]
+  }
+}
