@@ -12,7 +12,7 @@ It helps users organize and manage tasks efficiently across different stages lik
 
 # 📸 Dashboard Preview
 
-![TaskFlow Dashboard](../dashboard.png)
+![TaskFlow Dashboard](https://github.com/sweven-007/TodoApp-Updated/blob/main/dashboard.png?raw=true)
 
 ---
 
